@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nomanmirzakhan
+- 👀 I’m interested in Data Visualization & Coding
+- 🌱 I’m currently learning Power B.I, Tableau
+- 💞️ I’m looking to collaborate on coding 
+- 📫 How to reach me Nomanc7@hotmail.com
